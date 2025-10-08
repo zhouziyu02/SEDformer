@@ -13,7 +13,7 @@ pip install -r requirements.txt
 bash scripts/train_wike2000.sh
 ```
 
-3. Train on Wiki article dataset:
+3. Train on WikiArticle dataset:
 ```bash
 bash scripts/train_wiki_article.sh
 ```
