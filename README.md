@@ -8,7 +8,7 @@ This is the official implementation of the WWW'2026 submission titled **"Mind th
 pip install -r requirements.txt
 ```
 
-2. Train on Wike2000 dataset:
+2. Train on Wiki2000 dataset:
 ```bash
 bash scripts/train_wike2000.sh
 ```
