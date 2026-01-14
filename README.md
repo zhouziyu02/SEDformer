@@ -1,5 +1,5 @@
 # SEDformer
-This is the official implementation of the WWW'2026 submission titled **"Mind the Gaps: Toward Natural and Efficient Modeling of Irregular Web Telemetry Time Series"**
+This is the official implementation of the paper titled **"Mind the Gaps: Toward Natural and Efficient Modeling of Irregular Web Telemetry Time Series"**
  
 ## Quick Start
 
